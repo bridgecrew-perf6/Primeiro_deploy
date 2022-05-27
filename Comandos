@@ -1,0 +1,9 @@
+Para instalar nodemon e fazer rodar o "devStart"
+
+sudo npm install -g nodemon
+
+Recursos para aplicativo
+"dotenv"
+npm i dotenv --save
+
+
