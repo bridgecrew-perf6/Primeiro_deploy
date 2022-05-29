@@ -14,4 +14,4 @@ router.get('/sapatos', (req,res)=>{
     res.end("Servidor ativo - Produtos(sapatos) - Router implantado")
 })
 
-modules.exports = router
+module.exports = router

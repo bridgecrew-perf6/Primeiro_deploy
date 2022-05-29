@@ -6,4 +6,4 @@ router.get('/', (req,res)=>{
     res.end("Servidor ativo - Router implantado")
 })
 
-modules.exports = router
+module.exports = router
