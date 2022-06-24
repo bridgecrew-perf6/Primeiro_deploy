@@ -8,7 +8,8 @@ if(process.env.NODE_ENV !=='production'){
 }
 
 const express = require('express')
-const app = express()
+const app = express() // Esse módulo está sendo executado pelo módulo express 
+//pode chamar do nome que quiser, mas é padrão chamar app
 
 //importando router
 
