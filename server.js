@@ -16,7 +16,7 @@ const expressLayouts = require('express-ejs-layouts')
 
 const indexRouter =  require('./routes/index')
 const produtosRouter = require('./routes/produtos')
-const servicosRouter = require('/routes/servicos')
+const servicosRouter = require('./routes/servicos')
 
 //habilitando as rotas
 //app.use(express.static('public'))
