@@ -6,4 +6,9 @@ Recursos para aplicativo
 "dotenv"
 npm i dotenv --save
 
+npm install express-ejs-layouts
+sudo npm i -g express-ejs
 
+sudo npm install -g npm@8.13.1
+
+npm install dotenv --save
